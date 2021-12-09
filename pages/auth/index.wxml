@@ -1,0 +1,4 @@
+<button type="primary" plain 
+bindtap="getUserProfile">
+  获取授权
+</button>
